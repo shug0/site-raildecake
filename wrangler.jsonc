@@ -1,0 +1,8 @@
+// Worker Cloudflare sans code : il sert public/index.html.
+{
+  "name": "raildecake",
+  "compatibility_date": "2026-10-29",
+  "assets": {
+    "directory": "./public"
+  }
+}
